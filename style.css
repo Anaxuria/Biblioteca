@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #1d1d1d;
+    color: aliceblue;
+}
+
+header {
+    max-width: 100%;
+    height: 80px;
+    background: #ff703c;
+    box-shadow: 0px 0px 10px 10px #ff703c ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    position: sticky;
+}
+
+.primeira {
+    max-width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-size: 2.5rem;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.botoes input {
+    background: #ff703c;
+    border-radius:9999px;
+    padding: 0.5rem 1rem;
+    border: 0;
+    font-size: 1.35rem;
+}
+
+.segunda {
+    max-width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://img-cdn.inc.com/image/upload/w_1920,h_1080,c_fill/images/panoramic/GettyImages-577674005_492115_zfpgiw.jpg);
+    background-attachment: fixed;
+    filter:brightness(-3);
+    border-top: 2px solid #ff703c;
+    border-bottom: 2px solid #ff703c;
+}
+
+.segunda blockquote {
+    font-size: 3rem;
+    color: #ff591d;
+}
