@@ -1,0 +1,38 @@
+- Pages 
+    - Incial
+        - Resumo do Website
+        - Livros em destaque
+        - Como funciona
+        - Tentar colocar o slick carosel
+        - Logar (pesquisar!!)
+    - Pagina de Login (Futuramente)
+        - Perfil
+        - Livros favoritos
+    - Pagina dos Livros
+        - API de livros (talvez)
+        - Add livros que quiser 
+        - Ter area para colocar avaliação e  o que achou
+        - Poder add favs (e aparecer no perfil futuramente)
+    - Pagina explicando o website em si
+        -Falar mais sobre o projeto/portifolio
+
+- Ideias
+    - Usar slick carosel
+    - Deixar o perfil salvo no navegador da pessoa e futuramente (estudando), testar um banco de dados
+    - menu que esconde com todos os livros listados
+    - Colocar toggle em ordem alfabetica
+    - Fazer algumas animações com CSS (principalmente no hover)
+    - API de livros (talvez)
+    - Responsivo para celulares e tablets
+    - Acessibilidade!!
+    - Ver sobre mudar de pagina sem atualizar tudo
+
+- Estudar 
+    - Animações CSS
+    - API 
+    - Aprofundar JS
+    - Mexer com bibli (slick carosel)
+    - Banco de dados (SQL)
+    - Pesquisar sobre framewoks
+    - Desing de sites (Figma)
+    - Sistema de pesquisa (a barra de pesquisa do header)
